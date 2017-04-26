@@ -1,5 +1,5 @@
 greeting:
-  value: yo from yaml
+  value: foo from yaml
 spring:
   application:
     name: servicetwo
